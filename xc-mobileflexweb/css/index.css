@@ -342,6 +342,7 @@ nav {
     border-top: 1px solid #bbb;
     border-bottom: 1px solid #bbb;
     margin: 0 4px;
+    background-color: #fff;
 }
 
 .local-user-nav li {
